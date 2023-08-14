@@ -1,0 +1,28 @@
+#footer {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  text-align: center; 
+  padding: 1rem;
+  background: #efefef;
+  font-size: 19px;
+}
+
+#baslik{
+    text-align: center;
+    font-size: 2rem;
+    color: #ED7B7B;
+}
+
+body{
+    background-color: #FFEECC;
+}
+
+nav{
+    text-align: center;
+}
+
+a{
+    margin: 10px;
+}
